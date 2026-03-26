@@ -52,6 +52,11 @@ Throughout this summary, we will use the Titanic dataset. Our goal is to predict
 </ul>
 </details>
 
+
+<img src="./labeled_example.png" width="50%">
+
+<!-- <img src="./unlabeled_example.png" width="50%"> -->
+
 ---
 
 ### **2. Data Cleaning and Preprocessing**  

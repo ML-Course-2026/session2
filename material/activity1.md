@@ -181,6 +181,9 @@ The Iris dataset contains measurements of three species of Iris flowers.
 > *   **Sepal**: The outermost part of the flower (Measured as `sepal_length` and `sepal_width`).
 > *   **Petal**: The colorful inner part (Measured as `petal_length` and `petal_width`).
 
+
+<img src="./iris.png" width="50%">
+
 ### Step 1 & 2: Load, Understand, and (Attempt to) Clean
 **Your Task:**
 Load the `iris` dataset from Seaborn. Check for null values and print the summary statistics. 
