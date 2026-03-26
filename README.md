@@ -31,17 +31,13 @@
 
 -----
 
-#### Part 0: Introduction to Data and Datasets for ML and LLMs
+#### Part 0: ML systems vs Traditional programming
 
-- Open source LLMs?
-  - [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
-  - [Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
-  - [OLMo 2](https://allenai.org/blog/olmo2-32B)
-- ML systems vs Traditional programming
-  - Importance of Data
-  - [From Data to rules](./material/ml_vs_traditional_paradigm.png)
-  - [Classical ML to DL to LLM](./material/ml2llm.png)
+- Importance of Data
+- [From Data to rules](./material/ml_vs_traditional_paradigm.png)
+- [Classical ML to DL to LLM](./material/ml2llm.png)
 - [Summary](./material/part0.md)
+
 
 ---
 
@@ -63,6 +59,13 @@
 - [Summary: Key Concepts from Part 2](./material/part2.md)
 - [Activity 2: Practical Exploration of LLM Dataset Preparation](./material/activity2.md)
 
+
+<!-- 
+- Open source LLMs?
+  - [Sky-T1](https://github.com/NovaSky-AI/SkyThought)
+  - [Reproduction of DeepSeek-R1](https://github.com/huggingface/open-r1)
+  - [OLMo 2](https://allenai.org/blog/olmo2-32B) 
+-->
 
 <!-- 
 
