@@ -159,7 +159,7 @@ The final step is to drop "noisy" or redundant columns that provide no mathemati
 
 ```python
 # Drop redundant columns created by Seaborn or text columns we can't use
-columns_to_drop =['who', 'adult_male', 'alive', 'embark_town', 'class']
+columns_to_drop =[ 'alive', 'embark_town']
 df_final = df_titanic.drop(columns=columns_to_drop)
 
 print("Final Dataset ready for an ML Algorithm:")
